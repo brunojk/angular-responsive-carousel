@@ -1,0 +1,22 @@
+{
+  "name": "angular-uno-responsive-carousel",
+  "version": "0.0.1",
+  "description": "A simple responsive carousel for AngularJS ",
+  "main": "src/angular-uno-responsive-carousel.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brunojk/angular-uno-responsive-carousel.git"
+  },
+  "keywords": [
+    "angular",
+    "angularjs",
+    "responsive",
+    "carousel"
+  ],
+  "author": "BrunoJK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunojk/angular-uno-responsive-carousel/issues"
+  },
+  "homepage": "https://github.com/brunojk/angular-uno-responsive-carousel"
+}
